@@ -1,4 +1,12 @@
-# **🚀 Deployment Guide: HESK Helpdesk on External Hosting**  
+# **🚀 Deployment Log: help.zimin.dev**  
+**📅 Date:** July 12, 2025  
+**👨‍💻 Deployed by:** Sasha Zimin  
+
+### **🌐 Deployment Overview**  
+- **Project:** `prj-frontend-help.zimin.dev`  
+- **Commit Hash:** `a1b2c3d` (initial HESK setup)  
+
+---
 **🌐 Domain:** `help.zimin.dev` (Cloudflare-protected)  
 **🛡️ Cloudflare Role:** DDoS protection only (proxy disabled for backend)  
 
